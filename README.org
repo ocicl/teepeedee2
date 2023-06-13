@@ -1,0 +1,10 @@
+* teepeedee2
+
+Fast webserver for dynamic pages
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vii/teepeedee2.git   |
+| commit  | 6a8fead  |
+| systems | teepeedee2 |
+|---------+-------------------------------------------|
+
